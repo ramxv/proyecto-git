@@ -1,5 +1,7 @@
 Aquí viene tu diario
 
+Realizando nuevos cambios en la rama nueva-funcionalidad
+
 Añadiendo cambios a mi diario desde la rama nueva-funcionalidad
 Esta es una modificación desde la rama de pruebas
 
