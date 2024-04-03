@@ -3,5 +3,9 @@ Aquí viene tu diario
 Añadiendo cambios a mi diario desde la rama nueva-funcionalidad
 
 Esta es una modificación desde la rama de pruebas 
+Realizando nuevos cambios en la rama nueva-funcionalidad
+
+Añadiendo cambios a mi diario desde la rama nueva-funcionalidad
+Esta es una modificación desde la rama de pruebas
 
 Esta es otra modificación 
